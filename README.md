@@ -19,3 +19,10 @@ To make this dashboard i have used Html,css,java script and js deliver apex char
   3)In visual code click on the Run and select chrome now you can see your webpage
   4)IT is not necessary you have visual code you can use any type of text editor like sublime,notepad++,etc.
   5)after making my project  i have posted my project on github repository by giving command on git software and github websites  
+  
+  
+  
+  
+  
+  # IMPORTANT NOTE#
+                 @In my webpage, link https://abhidjrkmd.github.io/Dashboard/ in desktop mode its look file but in mobile view the left side sidebar is not shown.@
