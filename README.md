@@ -1,16 +1,16 @@
-To make this dashboard i have used Html,css,java script and js deliver apex chart .
- -> now talk about the Html part 
-    1)i have used div tag to defines the sections like charts,sidebar ,nav bar , main cards and main titles.
-    2)In charts section i have used nested div section chart_title,chart_title left and right 
-    3)In side bar section i have also used nested div sections to make differenet menus.
-    4)and also used nested div tag in MAin cards and Main titles.
- -> now talk about the css part
-    1)i have used css for styling my html webpages  to link css in my html webpage i have used href="style.css" in the head section
-    2)tags which i have used like padding and box-shadow ,gap, grid-template column and many more important tags to place the content and styling.
- -> now lets talk about the javascript part
-    1)To link the javascript file in html webpage use <script src="script.js"></script>
-    2)In this javascipt part i have used for detailing of charts like type ="bar" and give details like name ,data ,plotting ,data label and x-axis and y-axis 
-    3) and i have also used apex chart to render charts in my Dashboard
+To make this dashboard i have used Html,css,java script and js deliver apex chart . <br>
+ -> now talk about the Html part <br>
+    1)i have used div tag to defines the sections like charts,sidebar ,nav bar , main cards and main titles.<br>
+    2)In charts section i have used nested div section chart_title,chart_title left and right <br>
+    3)In side bar section i have also used nested div sections to make differenet menus.<br>
+    4)and also used nested div tag in MAin cards and Main titles.<br>
+ -> now talk about the css part<br>
+    1)i have used css for styling my html webpages  to link css in my html webpage i have used href="style.css" in the head section<br>
+    2)tags which i have used like padding and box-shadow ,gap, grid-template column and many more important tags to place the content and styling.<br>
+ -> now lets talk about the javascript part<br>
+    1)To link the javascript file in html webpage use <script src="script.js"></script><br>
+    2)In this javascipt part i have used for detailing of charts like type ="bar" and give details like name ,data ,plotting ,data label and x-axis and y-axis <br>
+    3) and i have also used apex chart to render charts in my Dashboard<br>
     
     
  # Steps to run the project 
@@ -24,5 +24,3 @@ To make this dashboard i have used Html,css,java script and js deliver apex char
   
   
   
-  # IMPORTANT NOTE#
-                 @In my webpage, link https://abhidjrkmd.github.io/Dashboard/ in desktop mode its look file but in mobile view the left side sidebar is not shown.@
